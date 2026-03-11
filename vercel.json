@@ -3,9 +3,5 @@
   "buildCommand": "next build",
   "outputDirectory": ".next",
   "installCommand": "npm install",
-  "regions": ["iad1"],
-  "env": {
-    "ANTHROPIC_API_KEY": "@anthropic_api_key",
-    "RAPIDAPI_KEY": "@rapidapi_key"
-  }
+  "regions": ["iad1"]
 }
